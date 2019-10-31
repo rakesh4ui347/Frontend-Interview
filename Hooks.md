@@ -1,10 +1,10 @@
-###React-hooks Abstract Components
+# React-hooks Abstract Components
 
 Click on the [Public Number] (#Public Number) to get the latest updates to the document, and you can receive the ** Front End Interview Manual** and the most standard resume template** that are included in this guide.
 
 The main content of this article is from the front-end intensive series [How to make wheels with React Hooks] (https://github.com/dt-fe/weekly/blob/v2/080.%E7%B2%BE%E8%AF%BB %E3%80%8A%E6%80%8E%E4%B9%88%E7%94%A8%20React%20Hooks%20%E9%80%A0%E8%BD%AE%E5%AD%90%E3 %80%8B.md)
 
-##1 Introduction
+## 1 Introduction
 
 Last week's [Intensive Reading of React Hooks] (https://github.com/dt-fe/weekly/blob/master/79.%E7%B2%BE%E8%AF%BB%E3%80%8AReact% 20Hooks%E3%80%8B.md) Basic understanding of React Hooks has been implemented. Maybe you also looked at the basic implementation of React Hooks (that is, arrays), but can you understand the implementation principle? Learning is knowledge, but using skills, seeing other people's usage is like brushing sounds (wow, can you eat this way?), you will always have new gains.
 
@@ -12,7 +12,7 @@ This article takes this knowledge into practice and sees how the vast majority o
 
 First of all, from the perspective of use, to understand the characteristics of React Hooks is "very convenient Connect everything", so whether it is data stream, Network, or timer can be monitored, there is a little RXJS meaning, that is, you can use React Hooks, the React component is made: any change of things is the input source, when these sources change, it will re-trigger the render of the React component, you only need to pick which data source the component binds (which Hooks are used), and then just write render The function will do!
 
-##2 Intensive reading
+## 2 Intensive reading
 
 After referring to some of the React Hooks components, I have classified them according to their functions.
 
